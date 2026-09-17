@@ -1,0 +1,7 @@
+{
+  "name": "Telegram Audio Lessons Bot",
+  "description": "Telegram-бот каталога аудиоуроков с трехуровневой навигацией, поиском и автоматической регистрацией аудиозаписей из админ-канала.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

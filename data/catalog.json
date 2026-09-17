@@ -1,0 +1,184 @@
+{
+  "categories": [
+    {
+      "id": "cat-islam-basics",
+      "title": "Основы Ислама и Акыда",
+      "icon": "🕌",
+      "order": 1
+    },
+    {
+      "id": "cat-quran-tajweed",
+      "title": "Изучение Корана и Таджвид",
+      "icon": "📖",
+      "order": 2
+    },
+    {
+      "id": "cat-arabic-lang",
+      "title": "Арабский язык",
+      "icon": "📜",
+      "order": 3
+    },
+    {
+      "id": "cat-languages",
+      "title": "Иностранные языки",
+      "icon": "🌍",
+      "order": 4
+    },
+    {
+      "id": "cat-fiqh",
+      "title": "Исламское право (Фикх)",
+      "icon": "⚖️",
+      "order": 5
+    },
+    {
+      "id": "cat-business",
+      "title": "Бизнес и Продуктивность",
+      "icon": "📈",
+      "order": 6
+    }
+  ],
+  "courses": [
+    {
+      "id": "course-aqeedah-basics",
+      "categoryId": "cat-islam-basics",
+      "title": "Таухид и столпы веры",
+      "description": "Разбор основ исламского вероубеждения, шести столпов имана и пяти столпов ислама.",
+      "order": 1
+    },
+    {
+      "id": "course-tajweed-intro",
+      "categoryId": "cat-quran-tajweed",
+      "title": "Таджвид с нуля: правильное чтение",
+      "description": "Постановка махраджа (произношения) букв и базовые правила красивого чтения Священного Корана.",
+      "order": 1
+    },
+    {
+      "id": "course-arabic-starter",
+      "categoryId": "cat-arabic-lang",
+      "title": "Арабский алфавит и чтение",
+      "description": "Учимся читать по-арабски: буквы, огласовки (фатха, касра, дамма), соединение букв в слова.",
+      "order": 1
+    },
+    {
+      "id": "course-eng-beginners",
+      "categoryId": "cat-languages",
+      "title": "Английский для начинающих",
+      "description": "Базовый разговорный курс для тех, кто начинает учить английский с нуля.",
+      "order": 1
+    },
+    {
+      "id": "course-fiqh-basics",
+      "categoryId": "cat-fiqh",
+      "title": "Основы фикха и поклонения",
+      "description": "Изучение правил очищения (тахарат), омовения, молитвы (намаз) и столпов поклонения.",
+      "order": 1
+    },
+    {
+      "id": "course-finances",
+      "categoryId": "cat-business",
+      "title": "Управление личными финансами",
+      "description": "Практические методы контроля расходов, сбережений и финансовой грамотности.",
+      "order": 1
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-aqeedah-1",
+      "categoryId": "cat-islam-basics",
+      "courseId": "course-aqeedah-basics",
+      "order": 1,
+      "title": "Урок 1: Введение в единобожие (Таухид)",
+      "description": "Определение таухида и три его категории: таухид ар-рубубийя, таухид аль-улюхийя, таухид аль-асма ва-с-сыфат.\nТаймкоды:\n00:00 — Вступительное слово\n01:30 — Три составляющие Таухида\n04:10 — Практическое значение в жизни мусульманина",
+      "fileId": "CQACAgQAAxkDAAMYaqptxKzbDQWf279X7SMu3xeXywMAAk0DAAKH6vxT9KgPLI73wIU9BA",
+      "fileName": "Aqeedah_01_Tawheed.mp3",
+      "audioUrl": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3",
+      "duration": 340,
+      "createdAt": "2026-09-15T10:00:00.000Z",
+      "addedBy": "Admin_@mant!m"
+    },
+    {
+      "id": "lesson-aqeedah-2",
+      "categoryId": "cat-islam-basics",
+      "courseId": "course-aqeedah-basics",
+      "order": 2,
+      "title": "Урок 2: Столпы Ислама и Имана",
+      "description": "Подробный разбор хадиса Джибриля (мир ему) о ступенях религии: Ислам, Иман, Ихсан.\nТаймкоды:\n00:00 — Текст хадиса Джибриля\n02:40 — Пять столпов Ислама\n05:15 — Шесть столпов Имана",
+      "fileId": "CQACAgQAAxkDAAMZaqpuS83PWosHY0N4v-XZ84sERVYAAr4DAAK8pRVQJ_h9tr2HqZ89BA",
+      "fileName": "Aqeedah_02_Pillars.mp3",
+      "audioUrl": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3",
+      "duration": 420,
+      "createdAt": "2026-09-15T12:00:00.000Z",
+      "addedBy": "Admin_@mant!m"
+    },
+    {
+      "id": "lesson-tajweed-1",
+      "categoryId": "cat-quran-tajweed",
+      "courseId": "course-tajweed-intro",
+      "order": 1,
+      "title": "Урок 1: Махрадж (места образования звуков)",
+      "description": "Основные органы речи при чтении Корана: гортань, язык, губы, полость рта и носоглотка.\nТаймкоды:\n00:00 — Что изучает наука таджвид\n02:10 — Пять основных махраджей\n04:50 — Примеры правильного произношения",
+      "fileId": "BAACAgIAAxkBAAIBFmX-tajweed_01_AgAD_shukran",
+      "fileName": "Tajweed_01_Makhraj.mp3",
+      "audioUrl": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3",
+      "duration": 380,
+      "createdAt": "2026-09-15T14:00:00.000Z",
+      "addedBy": "Admin_@mant!m"
+    },
+    {
+      "id": "lesson-arabic-1",
+      "categoryId": "cat-arabic-lang",
+      "courseId": "course-arabic-starter",
+      "order": 1,
+      "title": "Урок 1: Арабский алфавит и три огласовки",
+      "description": "28 букв арабского алфавита, чтение справа налево, огласовки (харакаты) фатха [а], касра [и], дамма [у].\nТаймкоды:\n00:00 — Особенности арабской графики\n01:45 — Первые 7 букв алфавита\n03:30 — Чтение с огласовками",
+      "fileId": "BAACAgIAAxkBAAIBFmX-arabic_01_AgAD_shukran",
+      "fileName": "Arabic_01_Alphabet.mp3",
+      "audioUrl": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3",
+      "duration": 315,
+      "createdAt": "2026-09-15T15:30:00.000Z",
+      "addedBy": "Admin_@mant!m"
+    },
+    {
+      "id": "lesson-eng-1",
+      "categoryId": "cat-languages",
+      "courseId": "course-eng-beginners",
+      "order": 1,
+      "title": "Урок 1: Введение и базовые приветствия",
+      "description": "Разбор ключевых фраз: Hello, Good morning, How are you doing? Разница между формальным и неформальным стилем.\nТаймкоды:\n00:00 — Приветствие автора\n01:10 — Формальные приветствия\n02:35 — Неформальный сленг",
+      "fileId": "BAACAgIAAxkBAAIBFmX-lesson_eng_01_AgAD_sample",
+      "fileName": "English_01_Greetings.mp3",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": 215,
+      "createdAt": "2026-09-10T10:00:00.000Z",
+      "addedBy": "Admin_Lead"
+    },
+    {
+      "id": "lesson-py-1",
+      "categoryId": "cat-programming",
+      "courseId": "course-py-zero",
+      "order": 1,
+      "title": "Урок 1: Введение в синтаксис и переменные",
+      "description": "Что такое интерпретатор Python, типы данных (int, float, str, bool), динамическая типизация и вывод print().\nТаймкоды:\n00:00 — Архитектура Python\n02:30 — Переменные и присваивание\n05:00 — Преобразование типов",
+      "fileId": "BAACAgIAAxkBAAIBFmX-lesson_py_01_AgAD_sample",
+      "fileName": "Python_01_Basics_Variables.mp3",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": 380,
+      "createdAt": "2026-09-08T09:00:00.000Z",
+      "addedBy": "Admin_Lead"
+    },
+    {
+      "id": "lesson-fin-1",
+      "categoryId": "cat-business",
+      "courseId": "course-finances",
+      "order": 1,
+      "title": "Урок 1: Правило распределения бюджета 50/30/20",
+      "description": "Как распределять доходы: 50% необходимые расходы, 30% желания, 20% сбережения и подушка безопасности.\nТаймкоды:\n00:00 — Суть формулы 50/30/20\n02:40 — Аудит подписок и скрытых трат\n04:30 — Автоматизация сбережений",
+      "fileId": "CQACAgQAAxkDAAMbaqpugHxDC5vhnf7etkOKuipAPJ0AAlgGAAKQyY1SnRZjVRYkZrU9BA",
+      "fileName": "Finances_01_Budget_Rules.mp3",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "duration": 325,
+      "createdAt": "2026-09-10T18:00:00.000Z",
+      "addedBy": "Admin_Lead"
+    }
+  ]
+}
